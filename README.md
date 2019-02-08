@@ -7,5 +7,5 @@ The system will be wireless and offline based.
 Raspberry Pi  <br> 
 Node-MCU
 
-# Libraries <hr>
-Tenserflow <br>
+# Libraries <br>
+Tenserflow <br> Open <br> CV<br> OS<br> Numpy <br>sys 
