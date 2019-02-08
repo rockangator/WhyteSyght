@@ -1,0 +1,2 @@
+# WhyteSyght
+SNU Hackathon
