@@ -11,9 +11,9 @@ Syncing hardware buttons with software so that a smooth process is enabled
 Keeping the product as simple as possible while not losing on any basics that is keeping the product simple so that it is easily used by a blind person and keeping features so that it helps him/her in his daily routine.
 
 ## Execution and Contribution <br>
- Ambuje Gupta @ambuje - Using MQTT protocol to integrate physical buttons & setting up protocol for live stream using Nginx engine
+ Naman Bansal @psifrous  - Using MQTT protocol to integrate physical buttons & setting up protocol for live stream using Nginx engine
 
-Naman Bansal @psifrous - Action Recognition using TensorFlow and OpenCV
+Ambuje Gupta @ambuje- Action Recognition using TensorFlow and OpenCV
 
 Harsh Kataria @rockangator - Scene Detection using TensorFlow and OpenCV
 
