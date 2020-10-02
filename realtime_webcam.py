@@ -1,4 +1,3 @@
-
 import os
 import cv2
 import numpy as np
@@ -48,13 +47,6 @@ if __name__ == '__main__':
     parser.add_argument('--show-process', type=bool, default=False,
                         help='for debug purpose, if enabled, speed for inference is dropped.')
     args = parser.parse_args()
-
-
-
-
-
-
-
 
 
     # Name of the directory containing the object detection module we're using
